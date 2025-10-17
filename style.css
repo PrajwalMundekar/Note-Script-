@@ -354,7 +354,9 @@ dialog::backdrop {
     padding: 0.6rem 1rem;
     font-size: 0.9rem;
   }
-
+  .empty-state {
+    display: block;
+  }
   .empty-state h2 {
     font-size: 1.2rem;
   }
@@ -399,5 +401,6 @@ dialog::backdrop {
     width: 500px;
   }
 }
+
 
 
