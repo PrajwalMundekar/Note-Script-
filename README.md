@@ -20,3 +20,9 @@ JavaScript (ES6+)
 💡 Future Enhancements
 Note search and filter
 Cloud sync and user login
+
+📸 Preview
+<img width="1366" height="768" alt="Screenshot (393)" src="https://github.com/user-attachments/assets/5121ca51-36b7-47f5-982d-aeb3ba034f77" />
+<img width="1366" height="768" alt="Screenshot (394)" src="https://github.com/user-attachments/assets/bb32b378-27b6-4b29-813d-042606a5d20f" />
+<img width="1366" height="768" alt="Screenshot (395)" src="https://github.com/user-attachments/assets/b6b446c4-c964-4c55-9667-dfea5e4ec0c0" />
+
